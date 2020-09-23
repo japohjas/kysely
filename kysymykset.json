@@ -1,0 +1,33 @@
+{"kysymykset": [
+    {"teksti": "Paljonko on 2+2?", "vaihtoehdot": [
+        {"teksti": "1+3", "oikein": true},
+        {"teksti": "3--2", "oikein": false},
+        {"teksti": "3", "oikein": false}]
+    },
+    {"teksti": "Paljonko on 2*6?", "vaihtoehdot": [
+        {"teksti": "5+3", "oikein": false},
+        {"teksti": "3+12", "oikein": false},
+        {"teksti": "3*4", "oikein": true},
+        {"teksti": "5+8", "oikein": false}]
+    },
+    {"teksti": "Kissa englanniksi?", "vaihtoehdot": [
+        {"teksti": "dog", "oikein": false},
+        {"teksti": "cat", "oikein": true}]
+    },
+    {"teksti": "Siistiä?", "vaihtoehdot": [
+        {"teksti": "ei", "oikein": false},
+        {"teksti": "kyllä", "oikein": true}]
+    },
+    {"teksti": "Montako wattia on gigawatti?", "vaihtoehdot": [
+        {"teksti": "tuhat", "oikein": false},
+        {"teksti": "miljoona", "oikein": false},
+        {"teksti": "miljardi", "oikein": true}]
+    },
+    {"teksti": "Paljonko on 100-2*6?", "vaihtoehdot": [
+        {"teksti": "98*6", "oikein": false},
+        {"teksti": "88+2", "oikein": false},
+        {"teksti": "80+8", "oikein": true},
+        {"teksti": "6+98", "oikein": false}]
+    }
+]}
+  
